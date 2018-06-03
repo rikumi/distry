@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "tsc -w",
+    "run": "nodemon dist/"
+  },
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/node": "^10.3.0",
+    "chalk": "^2.4.1",
+    "tsc": "^1.20150623.0",
+    "typescript": "^2.9.1"
+  }
+}
